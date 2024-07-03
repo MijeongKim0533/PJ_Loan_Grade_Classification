@@ -22,7 +22,7 @@
 - Grid Search 사용하여 파라미터 튜닝, Kfold 사용하여 교차검증
 - SHAP라이브러리 사용하여 등급에 영향을 미치는 변수 파악
 - 최종 선택모델 : XGBClassifier<br>
-  정확도 0.77 -> 0.94, F1 score 0.75 -> 0.94  
+  정확도 0.77 -> 0.94, F1 score 0.75 -> 0.92  
 ## 4. 결론
 <p align='center'><img width="400" alt="image" src="https://github.com/MijeongKim0533/PJ_Loan_Grade_Classification/assets/152786534/14294e90-f812-4894-8737-b7a4c4f423b6"></p>
 1. 대출등급을 결정하는 중요한 변수는 상환과 관련된 변수이다.<br>
